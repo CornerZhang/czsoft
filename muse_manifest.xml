@@ -1,0 +1,37 @@
+<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x,2x" timestamp="1422871831198">
+  <folder name="css">
+    <file name="site_global.css" crc="475048684"/>
+    <file name="index.css" crc="80665479" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3850798583" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="212726984" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="4125239756" ref="phone>index:tablet>index:index"/>
+    <file name="museredirect.js" crc="3986430445" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="app_icon-u99.png" crc="340212447" ref="phone>index"/>
+    <file name="app_icon_infrect480x127.png" crc="3849603942" ref="phone>index"/>
+    <file name="app_icon_infrect480x127_2x.png" crc="278390891" ref="phone>index"/>
+    <file name="app_icon-u134.png" crc="3886264886" ref="tablet>index"/>
+    <file name="app_icon_infrect.png" crc="3795051685" ref="tablet>index"/>
+    <file name="app_icon_infrect_2x.png" crc="85700946" ref="tablet>index"/>
+    <file name="u148-grad.png" crc="4050785016" ref="index"/>
+    <file name="app_icon-u160.png" crc="517571653" ref="index"/>
+    <file name="app_icon_infrect392x104.png" crc="43166220" ref="index"/>
+    <file name="app_icon_infrect392x104_2x.png" crc="97785962" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="199655504" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="343408776" mt="1422871749072" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="4000640862" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3821472176" mt="1422871697910" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4090631459" mt="1422871697908" redirect="true"/>
+</manifest>

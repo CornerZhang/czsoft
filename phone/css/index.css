@@ -1,0 +1,131 @@
+.version.index /* version checker */
+{
+	color: #0000EE;
+	background-color: #74EF5E;
+}
+
+@-ms-viewport
+{
+	width: 640px;
+}
+
+@-webkit-viewport
+{
+	width: 640px;
+}
+
+@-o-viewport
+{
+	width: 640px;
+}
+
+@-moz-viewport
+{
+	width: 640px;
+}
+
+@viewport
+{
+	width: 640px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 480px;
+	min-height: 804.5499999999998px;
+	background: -webkit-gradient(linear, center top, center bottom, from(#000000),color-stop(100%, #0041AD));
+	background: -webkit-linear-gradient(top,#000000 ,#0041AD 100%);
+	background: -o-linear-gradient(top,#000000 ,#0041AD 100%);
+	background: linear-gradient(to bottom,#000000 ,#0041AD 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FF000000, endColorstr=#FF0041AD, GradientType=0);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF000000', endColorstr='#FF0041AD', GradientType=0)";
+	border-style: none;
+	border-color: transparent;
+	padding: 95px 80px 236.45000000000016px;
+}
+
+#u96-4
+{
+	z-index: 2;
+	width: 480px;
+	min-height: 80px;
+	line-height: 86px;
+	color: #1497FC;
+	font-size: 72px;
+	text-align: center;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-weight: bold;
+	position: relative;
+}
+
+#u98-4
+{
+	z-index: 6;
+	width: 480px;
+	min-height: 30px;
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 30px;
+	line-height: 36px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-style: italic;
+	margin-top: 79px;
+	position: relative;
+}
+
+#pu99
+{
+	width: 0.01px;
+	margin-top: 25px;
+}
+
+#u99
+{
+	z-index: 10;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u170
+{
+	z-index: 16;
+	width: 480px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 417px;
+}
+
+#u111-4
+{
+	z-index: 12;
+	width: 480px;
+	min-height: 30px;
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 24px;
+	line-height: 29px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-style: italic;
+	margin-top: 37px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 640px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
